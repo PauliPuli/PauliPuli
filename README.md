@@ -1,5 +1,5 @@
-<h1">Hola 👋, mi nombre es Paulina San Martín Sandoval</h1>
-<h3">Acerca de mi</h3>
+<h1>Hola 👋, mi nombre es Paulina San Martín Sandoval</h1>
+<h3>Acerca de mi</h3>
 <p>Soy una diseñadora gráfica con conocimientos de UI UX y actualmente finalizando un bootcamp de FullJavaScript traine en Desafío Latam. Me gusta crear identidad para distintos proyectos tales como marcas, redes sociales y ahora sitios web.</p>
 
 <h3 align="left">¿Necesitas una maqueta para tu proyecto? ¡Hablemos!</h3>
