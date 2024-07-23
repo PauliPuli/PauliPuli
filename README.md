@@ -4,14 +4,17 @@
 <hr>
 	<h3>Formación</h3>
 <ul>
+	<li><p>Enero-Mayo 2024: <strong>Bootcamp FullJavaScript Trainee</strong><italic> - Desafío Latam</italic></p></li>
+			<li><p>Marzo-Junio 2023: <strong>Bootcamp Diseño UI UX</strong><italic> - Inforcap</italic></p></li>
 	<li><p>2012-2020: <strong>Diseño gráfico</strong><italic> - Universidad de Chile</italic></p></li>
-		<li><p>Marzo-Junio 2023: <strong>Bootcamp Diseño UI UX</strong><italic> - Inforcap</italic></p></li>
-		<li><p>Enero-Mayo 2024: <strong>Bootcamp FullJavaScript Trainee</strong><italic> - Desafío Latam</italic></p></li>
+
+		
 </ul>
 <h3>Experiencia</h3>
 <ul>
+	<li><p>Julio 2024 - : <strong>Voluntariado en Diseño UI UX</strong> - Inkua</p></li>
+		<li><p>2021-Actualidad: <strong>Desarrollo piezas para rrss</strong> - Freelance</p></li>
 <li><p>Julio-Noviembre 2021: <strong>Diseñadora gráfica digital</strong> - Mundo Parcelas</p></li>
-	<li><p>2021-Actualidad: <strong>Desarrollo piezas para rrss</strong> - Freelance</p></li>
 </ul>
 <hr>
 <h3 align="center">Languages and Tools:</h3>
